@@ -1,0 +1,4 @@
+hello 
+this is just for read file 
+you can understand this 
+so just see want i do 
